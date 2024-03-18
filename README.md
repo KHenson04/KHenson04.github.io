@@ -1,6 +1,6 @@
 ## Welcome to my super cool repository :D
 
-### Click on the files ^^ above to view maya scripts! 
+##### Click on the files ^^ above to view maya scripts! 
 
 ### Curve Tool
   - Parameters: name, type, size, and parent
