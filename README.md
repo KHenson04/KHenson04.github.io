@@ -1,8 +1,8 @@
-## IK FK Builder Script
+### IK FK Builder Script
 
 A Maya Python tool that automates IK FK building
 
-# IK FK Rig Call
+## IK FK Rig Call
 To call the script, copy the python code below and the IK FK UI will appear:
 ``` python
 import KirstenTools as KT
@@ -29,7 +29,7 @@ showUI()
 
 ```
 
-# IK FK Builder
+## IK FK Builder
 This function automates the process of creating an IK/FK Chain for rigging in Maya! It takes a list of three joints
 representing the finger, arm, or any three hierarchy joints and generates IK / FK controls. Users can specify various parameters
 such as the option curve, control sizes, and colors to customize the rig according to fit their needs:
@@ -43,7 +43,7 @@ such as the option curve, control sizes, and colors to customize the rig accordi
 - fkControlColor (tuple, optional): RGB color for the FK control curve. Defaults to Curve.RED.
 - ikControlColor (tuple, optional): RGB color for the IK control curve. Defaults to Curve.BLUE
 
-# Curve Tool
+## Curve Tool
 The curve tool is a script that lets users customize the typr of curves used in the tool: 
   - Parameters: name, type, size, and parent
 
