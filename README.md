@@ -4,7 +4,7 @@
 
 
 ### IK FK Rig Call
-##To call the script, copy the python code below and the IK FK UI will appear:
+## To call the script, copy the python code below and the IK FK UI will appear:
 ``` python
 import KirstenTools as KT
 import imp
