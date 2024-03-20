@@ -1,10 +1,10 @@
-# IK FK Builder Script
+## IK FK Builder Script
 
-### A Maya Python tool that automates IK FK building
+## A Maya Python tool that automates IK FK building
 
 
-### IK FK Rig Call
-## To call the script, copy the python code below and the IK FK UI will appear:
+## IK FK Rig Call
+# To call the script, copy the python code below and the IK FK UI will appear:
 ``` python
 import KirstenTools as KT
 import imp
