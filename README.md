@@ -44,6 +44,13 @@ such as the option curve, control sizes, and colors to customize the rig accordi
 - ikControlColor (tuple, optional): RGB color for the IK control curve. Defaults to Curve.BLUE
 
 # Curve Tool
-The curve tool is a script that lets users customize the typr of curves used in the tool: 
-  - Parameters: name, type, size, and parent
+The curve tool is a script that lets users customize the typr of curves used in the tool:
+## Parameters:
+- name (str): Name of the new curve that is created.
+- preset (str): Type of curve to create: square, traingle.
+- size (float): Size of the new curve.
+- parent (str): Name of the node to make the curve of a child of 'name'.
+
+
+  
 
